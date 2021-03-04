@@ -1,9 +1,7 @@
-# Masque-Detection
+Masque-Detection
+#####
+
 Création et tests d'un cascade classifier pour la détection de visages masqués.
-
-
-Liens
-####
 
 TP 'Creating a Cascade of Haar-Like Classifiers: Step by Step' :
 ===============================================================
